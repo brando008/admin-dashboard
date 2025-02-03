@@ -28,6 +28,10 @@ body {
   grid-template-columns: 1fr 1fr;
   gap: 10px;
 }
+#sidebar {
+  height: 30px;
+  width: 30px;
+}
 .sidebar > div {
   border: 0.1px solid black;
 }
